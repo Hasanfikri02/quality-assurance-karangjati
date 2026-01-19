@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -57,3 +58,44 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Website Kelurahan Karangjati – Quality Assurance Project
+
+## Deskripsi
+Repository ini berisi source code website sederhana Kelurahan Karangjati yang dikembangkan sebagai studi kasus penerapan **Quality Assurance (QA)** dalam pengembangan perangkat lunak.  
+Website dibuat menggunakan framework **Laravel** tanpa sistem login dan admin, dengan fokus pada pengujian kualitas sistem.
+
+## Tujuan Project
+- Menerapkan konsep Quality Assurance dalam pengembangan website
+- Merancang dan melaksanakan pengujian fungsional dan non-fungsional
+- Mendokumentasikan hasil pengujian sebagai bagian dari konversi mata kuliah Quality Assurance
+
+## Fitur Website
+- Halaman Beranda
+- Halaman Profil
+- Halaman Layanan Masyarakat
+- Halaman Kontak
+- Navigasi antar halaman
+- Validasi input pada form layanan
+
+## Teknologi yang Digunakan
+- PHP 8.x
+- Laravel
+- HTML, CSS
+- Laragon (Local Development)
+- Google Chrome Lighthouse
+
+## Jenis Pengujian
+- Unit Testing (validasi input)
+- Integration Testing
+- System Testing
+- Acceptance Testing
+- Non-Functional Testing (Performance, Usability)
+
+## Tools Quality Assurance
+- Laravel Validation
+- Google Chrome Lighthouse
+
+## Cara Menjalankan Project
+1. Clone repository ini
+>>>>>>> 3e46df72d3d45a0a3b17b74a1b0740186492c851
